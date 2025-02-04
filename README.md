@@ -4,6 +4,9 @@
 
 This project implements the **A\*** (A-Star) algorithm to find the shortest path in a grid-based maze with random obstacles and weighted paths. It includes visualization using **Matplotlib** to display the maze, the computed path, and the animation of the pathfinding process.
 
+## Showcase
+![Showcase](showcase.gif)
+
 ## 📊 Features
 
 - **A\*** Algorithm for efficient pathfinding
